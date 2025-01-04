@@ -3,8 +3,8 @@
 I'm a front-end developer that is passionate about making the web an accessible place for everyone, as a Dyspraxic person I value inclusivity.
 I enjoy working on exciting, impactful projects that help me enhance and further my knowledge in web technologies
 
- 🚀 Skills
-- Languages: HTML, CSS, JS, 
+ 🚀 Skills:
+- Languages: HTML, CSS, JS
 - Frameworks: React, Bootstrap
 - Tools: Git, GitHub, VS Code
 - Other Interests: Web Accessibility
