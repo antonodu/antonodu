@@ -7,7 +7,7 @@ I enjoy working on exciting, impactful projects that help me enhance and further
 - Languages: HTML, CSS, JS, 
 - Frameworks: React, Bootstrap
 - Tools: Git, GitHub, VS Code
-- Other Interests**: Web Accessibility
+- Other Interests: Web Accessibility
 
 🌱 I'm currently working on a project for a fictional music festival
 
