@@ -9,7 +9,7 @@ I enjoy working on exciting, impactful projects that help me enhance and further
 - Tools: Git, GitHub, VS Code
 - Other Interests: Web Accessibility
 
-🌱 I'm currently working on a project for a fictional music festival
+🌱 I'm currently working on a project for a quiz website
 
 📫 How to reach me:
 
