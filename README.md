@@ -9,7 +9,7 @@ I enjoy working on exciting, impactful projects that help me enhance and further
 - Tools: Git, GitHub, VS Code
 - Other Interests: Web Accessibility
 
-🌱 You can check out my Web Accessibility Quiz website here - [Web Accessibility Quiz](https://accesswithanthony.netlify.app/)
+🌱 You can check out my Web Accessibility Quiz website here, have a go and learn something new! - [Web Accessibility Quiz](https://accesswithanthony.netlify.app/)
 
 📫 How to reach me:
 
