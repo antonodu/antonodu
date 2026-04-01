@@ -1,6 +1,6 @@
 ## Hi I'm Anthony 👋🏿
 
-I'm a front-end developer that is passionate about making the web an accessible place for everyone. As a neurodivergent individual who has Dyspraxia I value inclusivity.
+I'm a front-end developer that is passionate about making the web an accessible place for everyone. As a neurodivergent individual who has dyspraxia I value inclusivity.
 I enjoy working on exciting, impactful projects that help me enhance and further my knowledge in web technologies
 
  🚀 Skills:
